@@ -1,0 +1,24 @@
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.deps.json
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.pdb
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.csproj.AssemblyReference.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.AssemblyInfoInputs.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.AssemblyInfo.cs
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.csproj.CoreCompileInputs.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\refint\BookStore.Utility.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.pdb
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Utility\obj\Debug\net7.0\ref\BookStore.Utility.dll
+D:\Final\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.deps.json
+D:\Final\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.dll
+D:\Final\BookStore.Utility\bin\Debug\net7.0\BookStore.Utility.pdb
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.csproj.AssemblyReference.cache
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.AssemblyInfoInputs.cache
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.AssemblyInfo.cs
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.csproj.CoreCompileInputs.cache
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.dll
+D:\Final\BookStore.Utility\obj\Debug\net7.0\refint\BookStore.Utility.dll
+D:\Final\BookStore.Utility\obj\Debug\net7.0\BookStore.Utility.pdb
+D:\Final\BookStore.Utility\obj\Debug\net7.0\ref\BookStore.Utility.dll
