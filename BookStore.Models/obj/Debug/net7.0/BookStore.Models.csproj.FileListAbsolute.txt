@@ -1,0 +1,24 @@
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\bin\Debug\net7.0\BookStore.Models.deps.json
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\bin\Debug\net7.0\BookStore.Models.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\bin\Debug\net7.0\BookStore.Models.pdb
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.AssemblyInfo.cs
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\refint\BookStore.Models.dll
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\BookStore.Models.pdb
+D:\MVC Project\book store\BookStore\BookStore-master\BookStore.Models\obj\Debug\net7.0\ref\BookStore.Models.dll
+D:\Final\BookStore.Models\bin\Debug\net7.0\BookStore.Models.deps.json
+D:\Final\BookStore.Models\bin\Debug\net7.0\BookStore.Models.dll
+D:\Final\BookStore.Models\bin\Debug\net7.0\BookStore.Models.pdb
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.AssemblyInfo.cs
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.dll
+D:\Final\BookStore.Models\obj\Debug\net7.0\refint\BookStore.Models.dll
+D:\Final\BookStore.Models\obj\Debug\net7.0\BookStore.Models.pdb
+D:\Final\BookStore.Models\obj\Debug\net7.0\ref\BookStore.Models.dll
